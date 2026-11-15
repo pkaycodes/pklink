@@ -3,7 +3,7 @@ import { NextResponse, type NextRequest } from "next/server";
 const GUEST_COOKIE = "pk_guest";
 const ONE_YEAR = 60 * 60 * 24 * 365;
 
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
   if (request.cookies.get(GUEST_COOKIE)?.value) {
     return NextResponse.next();
   }

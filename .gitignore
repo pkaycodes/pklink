@@ -12,3 +12,10 @@ next-env.d.ts
 
 .dev.log
 .dev.pid
+/freebuff-sites-build/
+/.open-next/
+/.wrangler/
+freebuff-sites-build/
+.freebuff/
+freebuff.wrangler.jsonc
+freebuff.open-next.config.ts
