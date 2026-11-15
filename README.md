@@ -54,7 +54,7 @@ Access is checked on the server. Private and password-protected content is never
 
 ## Run it locally
 
-Requires **Node.js 20+**, a Cloudflare account and Wrangler (installed by the project).
+Requires **Node.js 20.9+**, a Cloudflare account and Wrangler (installed by the project).
 
 ```bash
 npm install
