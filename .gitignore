@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.wrangler
+.open-next
+.env
+.env.*
+!.env.example
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+
+.dev.log
+.dev.pid
