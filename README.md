@@ -2,6 +2,8 @@
 
 **Anything you want to share. One scan away.**
 
+**Live site:** <https://site-1e61daf990414aa78567f4776a59d442.freebuff.page/>
+
 PKLink turns a message, photos, a video, a document or a link into a beautiful page with a shareable link and a QR code you can print. No app is needed on the other end — just a phone camera.
 
 Built for the things people actually share in Ghana and beyond: a shop menu, a wedding invitation, a CV, a product catalogue, a memorial page, a payment request, a Wi-Fi password, a portfolio.
